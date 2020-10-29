@@ -28,5 +28,4 @@ fun main() {
 
     println("Removed: $removed, Removed not existing: $removedNotExists");
     println(arrayList)
-
 }
